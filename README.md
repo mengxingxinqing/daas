@@ -1,2 +1,2 @@
 # daas
-domain
+domain as a service
